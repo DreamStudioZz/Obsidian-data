@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Tools-and-Projects/RAG-and-Data/Graphify.md",
+                "file": "00-Home/000-AI-Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graphify"
+              "title": "000-AI-Index"
             }
           }
         ]
@@ -190,6 +190,7 @@
   },
   "active": "c2338f2f9bac259f",
   "lastOpenFiles": [
+    "03-Tools-and-Projects/Agents/FastMCP.md",
     "00-Home/000-AI-Index.md",
     "03-Tools-and-Projects/RAG-and-Data/Graphify.md",
     "04-Engineering-Practices/基于代码知识图谱的代码大模型上下文增强：Graphify 实践.md",
@@ -202,7 +203,6 @@
     "03-Tools-and-Projects/FastMCP.md",
     "03-Tools-and-Projects/Agents/PydanticAI.md",
     "03-Tools-and-Projects/Agents/Mem0.md",
-    "03-Tools-and-Projects/Agents/FastMCP.md",
     "03-Tools-and-Projects/Evaluation-and-Ops",
     "03-Tools-and-Projects/RAG-and-Data",
     "03-Tools-and-Projects/Inference",
