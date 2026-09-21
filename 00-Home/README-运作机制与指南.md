@@ -13,7 +13,8 @@
   1. 联网追踪当天前沿的 GitHub Trending、顶会与业界开源的 AI 工具与最佳工程实践；
   2. 提炼具有实际生产落地价值的工具与方案；
   3. 按照标准模板自动生成 `01-Daily-Digest/YYYY/YYYY-MM/YYYY-MM-DD-AI-Digest.md`；
-  4. 自动把高星工具/突破性实践提取为 `03-Tools-and-Projects/` 和 `04-Engineering-Practices/` 中的独立卡片，并建立双向链接。
+  4. 自动把高星工具/突破性实践提取为 `03-Tools-and-Projects/` 和 `04-Engineering-Practices/` 中的独立卡片，并建立双向链接；
+  5. 自动完成 `git add`、规范化 `git commit` 并直接推送到远程仓库（`git push origin main`），实现云端全自动同步与备份。
 
 ### 方式 2：按需定制专项沉淀
 当你遇到特定技术点或研究方向时，可以直接告诉我：
