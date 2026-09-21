@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cc2e815b96b251b5",
+        "id": "500a5911d9376bde",
         "type": "tabs",
         "children": [
           {
-            "id": "1ee586c015e22bdc",
+            "id": "f193e8a3c838c1d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daily-Digest/2026/2026-09/2026-09-21-AI-Digest.md",
+                "file": "04-Engineering-Practices/RAG 生产环境优化：多路召回与 Rerank 最佳实践.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-21-AI-Digest"
+              "title": "RAG 生产环境优化：多路召回与 Rerank 最佳实践"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Daily-Digest/2026/2026-09/2026-09-21-AI-Digest.md",
+                "file": "04-Engineering-Practices/RAG 生产环境优化：多路召回与 Rerank 最佳实践.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Daily-Digest/2026/2026-09/2026-09-21-AI-Digest.md",
+                "file": "04-Engineering-Practices/RAG 生产环境优化：多路召回与 Rerank 最佳实践.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Daily-Digest/2026/2026-09/2026-09-21-AI-Digest.md",
+                "file": "04-Engineering-Practices/RAG 生产环境优化：多路召回与 Rerank 最佳实践.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,14 +188,16 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1ee586c015e22bdc",
+  "active": "f193e8a3c838c1d9",
   "lastOpenFiles": [
     "04-Engineering-Practices/RAG 生产环境优化：多路召回与 Rerank 最佳实践.md",
+    "99-Templates/Template-Daily-Digest.md",
+    "99-Templates/Template-Practice-Card.md",
+    "01-Daily-Digest/2026/2026-09/2026-09-21-AI-Digest.md",
+    "00-Home/000-AI-Index.md",
     "03-Tools-and-Projects/vLLM.md",
     "03-Tools-and-Projects/LiteLLM.md",
-    "01-Daily-Digest/2026/2026-09/2026-09-21-AI-Digest.md",
     "00-Home/README-运作机制与指南.md",
-    "00-Home/000-AI-Index.md",
     "12213未命名.md",
     "04-Engineering-Practices",
     "03-Tools-and-Projects",
@@ -203,9 +205,7 @@
     "01-Daily-Digest/2026",
     "01-Daily-Digest",
     "00-Home",
-    "99-Templates/Template-Practice-Card.md",
     "99-Templates/Template-Project-Card.md",
-    "99-Templates/Template-Daily-Digest.md",
     "99-Templates",
     "未命名.canvas",
     "未命名"
