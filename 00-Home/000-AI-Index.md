@@ -19,7 +19,7 @@ tags:
 TABLE category AS "分类", github AS "GitHub 仓库", date_added AS "收录日期"
 FROM "03-Tools-and-Projects"
 WHERE file.name != "Template-Project-Card"
-SORT date_added DESC, file.ctime DESC
+SORT category ASC, date_added DESC, file.name ASC
 ```
 
 ---

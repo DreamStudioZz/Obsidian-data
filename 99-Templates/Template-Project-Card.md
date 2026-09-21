@@ -3,7 +3,7 @@ tags:
   - ai-tool
   - open-source
   - status/testing # 候选值: status/evaluating, status/adopted, status/archived
-category: "" # 候选值: Agent, LLM-Inference, RAG, Coding, Evaluation, Fine-Tuning
+category: "" # 对应 03-Tools-and-Projects/ 下的子目录: Agents, Inference, RAG-and-Data, Evaluation-and-Ops
 github: ""
 stars: ""
 license: ""

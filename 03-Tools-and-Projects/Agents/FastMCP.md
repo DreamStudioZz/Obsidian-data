@@ -3,7 +3,7 @@ tags:
   - ai-tool
   - open-source
   - status/adopted
-category: Agent
+category: Agents
 github: https://github.com/modelcontextprotocol/python-sdk
 stars: "10k+"
 license: MIT

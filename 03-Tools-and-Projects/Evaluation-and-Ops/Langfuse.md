@@ -3,7 +3,7 @@ tags:
   - ai-tool
   - open-source
   - status/adopted
-category: Evaluation
+category: Evaluation-and-Ops
 github: https://github.com/langfuse/langfuse
 stars: "14k+"
 license: MIT

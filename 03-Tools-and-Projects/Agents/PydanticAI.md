@@ -3,7 +3,7 @@ tags:
   - ai-tool
   - open-source
   - status/adopted
-category: Agent
+category: Agents
 github: https://github.com/pydantic/pydantic-ai
 stars: "15k+"
 license: MIT

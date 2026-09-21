@@ -3,7 +3,7 @@ tags:
   - ai-tool
   - open-source
   - status/adopted
-category: Gateway
+category: Inference
 github: https://github.com/BerriAI/litellm
 stars: "20k+"
 license: MIT

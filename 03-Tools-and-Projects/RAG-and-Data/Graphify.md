@@ -5,7 +5,7 @@ tags:
   - code-intelligence
   - knowledge-graph
   - status/adopted
-category: Code-Intelligence
+category: RAG-and-Data
 github: https://github.com/Graphify-Labs/graphify
 pypi: graphifyy
 license: MIT / Apache-2.0

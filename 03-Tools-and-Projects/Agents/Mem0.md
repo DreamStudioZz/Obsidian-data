@@ -3,7 +3,7 @@ tags:
   - ai-tool
   - open-source
   - status/adopted
-category: Agent
+category: Agents
 github: https://github.com/mem0ai/mem0
 stars: "26k+"
 license: Apache-2.0
@@ -16,13 +16,13 @@ date_added: 2026-09-21
 
 ## 📌 基本信息
 
-| 属性 | 内容 |
-| :--- | :--- |
+| 属性       | 内容                                                    |
+| :------- | :---------------------------------------------------- |
 | **仓库地址** | [GitHub: mem0ai/mem0](https://github.com/mem0ai/mem0) |
-| **项目定位** | 智能体长短期记忆中间件（原 Embedchain 团队孵化） |
-| **技术架构** | 语义向量检索 + BM25 关键词匹配 + 知识图谱实体链接 + 时序推理 |
-| **存储后端** | Qdrant, Milvus, Chroma, PgVector, Neo4j 等 |
-| **关联概念** | [[000-AI-Index]], [[2026-09-21-AI-Digest]] |
+| **项目定位** | 智能体长短期记忆中间件（原 Embedchain 团队孵化）                        |
+| **技术架构** | 语义向量检索 + BM25 关键词匹配 + 知识图谱实体链接 + 时序推理                 |
+| **存储后端** | Qdrant, Milvus, Chroma, PgVector, Neo4j 等             |
+| **关联概念** | [[000-AI-Index]], [[2026-09-21-AI-Digest]]            |
 
 ---
 

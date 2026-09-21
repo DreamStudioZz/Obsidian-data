@@ -30,7 +30,11 @@
 - **`01-Daily-Digest/`**：
   - 按 `年/年月/年月日-AI-Digest.md` 存放每日资讯流。
 - **`03-Tools-and-Projects/`**：
-  - 核心开源框架与工具库，包含 GitHub 地址、核心特性、架构亮点与快速启动示例。
+  - 核心开源框架与工具库，按核心领域划分子目录归档：
+    - `Agents/`：智能体框架、工具协议、记忆系统（如 PydanticAI, FastMCP, Mem0）
+    - `Inference/`：推理加速引擎、本地部署底座、统一路由网关（如 vLLM, SGLang, LiteLLM）
+    - `RAG-and-Data/`：向量检索、代码/知识图谱、数据清洗增强（如 Graphify）
+    - `Evaluation-and-Ops/`：可观测性、LLM 评测打分、Prompt 管理（如 Langfuse）
 - **`04-Engineering-Practices/`**：
   - 解决实际生产问题的工程架构方案、避坑指南与示例代码。
 - **`99-Templates/`**：

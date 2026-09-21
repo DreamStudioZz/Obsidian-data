@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8483c1f19a626f7c",
+        "id": "579beaccdb6c2350",
         "type": "tabs",
         "children": [
           {
-            "id": "32d013016f68a0d2",
+            "id": "c2338f2f9bac259f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Tools-and-Projects/Graphify.md",
+                "file": "03-Tools-and-Projects/RAG-and-Data/Graphify.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -188,34 +188,44 @@
       "bases:新建数据库": false
     }
   },
-  "active": "32d013016f68a0d2",
+  "active": "c2338f2f9bac259f",
   "lastOpenFiles": [
-    "未命名.base",
+    "00-Home/000-AI-Index.md",
+    "03-Tools-and-Projects/RAG-and-Data/Graphify.md",
+    "04-Engineering-Practices/基于代码知识图谱的代码大模型上下文增强：Graphify 实践.md",
+    "04-Engineering-Practices/RAG 生产环境优化：多路召回与 Rerank 最佳实践.md",
     "03-Tools-and-Projects/Graphify.md",
+    "03-Tools-and-Projects/Evaluation-and-Ops/Langfuse.md",
+    "03-Tools-and-Projects/Inference/LiteLLM.md",
+    "03-Tools-and-Projects/Inference/SGLang.md",
+    "03-Tools-and-Projects/Inference/vLLM.md",
+    "03-Tools-and-Projects/FastMCP.md",
+    "03-Tools-and-Projects/Agents/PydanticAI.md",
+    "03-Tools-and-Projects/Agents/Mem0.md",
+    "03-Tools-and-Projects/Agents/FastMCP.md",
+    "03-Tools-and-Projects/Evaluation-and-Ops",
+    "03-Tools-and-Projects/RAG-and-Data",
+    "03-Tools-and-Projects/Inference",
+    "03-Tools-and-Projects/Agents",
+    "04-Engineering-Practices/基于 PydanticAI 的类型安全 Agent 架构设计与结构化输出实践.md",
+    "04-Engineering-Practices/大模型工程降本提速：Prompt Caching 架构设计与最佳实践.md",
+    "01-Daily-Digest/2026/2026-09/2026-09-21-AI-Digest.md",
+    "03-Tools-and-Projects/Mem0.md",
+    "未命名.base",
     "00-Home/README-运作机制与指南.md",
     "2026-09-21.md",
     "00-Home/Dataview插件使用说明与实战.md",
     "未命名.canvas",
-    "00-Home/000-AI-Index.md",
-    "03-Tools-and-Projects/FastMCP.md",
-    "01-Daily-Digest/2026/2026-09/2026-09-21-AI-Digest.md",
     "03-Tools-and-Projects/vLLM.md",
     "03-Tools-and-Projects/SGLang.md",
     "03-Tools-and-Projects/LiteLLM.md",
-    "04-Engineering-Practices/大模型工程降本提速：Prompt Caching 架构设计与最佳实践.md",
-    "04-Engineering-Practices/基于代码知识图谱的代码大模型上下文增强：Graphify 实践.md",
     "99-Templates/Template-Project-Card.md",
     "99-Templates/Template-Practice-Card.md",
     "99-Templates/Template-Daily-Digest.md",
-    "04-Engineering-Practices/RAG 生产环境优化：多路召回与 Rerank 最佳实践.md",
-    "12213未命名.md",
     "04-Engineering-Practices",
     "03-Tools-and-Projects",
     "01-Daily-Digest/2026/2026-09",
     "01-Daily-Digest/2026",
-    "01-Daily-Digest",
-    "00-Home",
-    "99-Templates",
-    "未命名"
+    "01-Daily-Digest"
   ]
 }

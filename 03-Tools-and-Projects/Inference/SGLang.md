@@ -3,7 +3,7 @@ tags:
   - ai-tool
   - open-source
   - status/adopted
-category: LLM-Inference
+category: Inference
 github: https://github.com/sgl-project/sglang
 stars: "15k+"
 license: Apache-2.0
