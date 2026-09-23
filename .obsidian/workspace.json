@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Tools-and-Projects/Agents/Pi-Agent.md",
+                "file": "00-Home/000-AI-Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pi-Agent"
+              "title": "000-AI-Index"
             }
           }
         ]
@@ -190,19 +190,23 @@
   },
   "active": "c2338f2f9bac259f",
   "lastOpenFiles": [
+    "00-Home/Dataview插件使用说明与实战.md",
+    "03-Tools-and-Projects/Inference/LiteLLM.md",
+    "03-Tools-and-Projects/Inference/Orca-Serving.md",
+    "03-Tools-and-Projects/Inference/SGLang.md",
+    "03-Tools-and-Projects/Orca-Serving.md",
+    "03-Tools-and-Projects/RAG-and-Data/LightRAG.md",
+    "03-Tools-and-Projects/Evaluation-and-Ops/DSPy.md",
+    "01-Daily-Digest/2026/2026-09/2026-09-22-AI-Digest.md",
+    "03-Tools-and-Projects/Agents/Pi-Agent.md",
     "03-Tools-and-Projects/Agents/smolagents.md",
     "03-Tools-and-Projects/Agents/PydanticAI.md",
-    "03-Tools-and-Projects/Agents/Pi-Agent.md",
     "00-Home/000-AI-Index.md",
-    "01-Daily-Digest/2026/2026-09/2026-09-22-AI-Digest.md",
-    "03-Tools-and-Projects/Evaluation-and-Ops/DSPy.md",
     "04-Engineering-Practices/告别手工调优：基于 DSPy 的提示词与 Few-Shot 自动编译优化实践.md",
     "04-Engineering-Practices/代码驱动智能体：基于 CodeAgent 的复杂多步任务执行范式.md",
     "03-Tools-and-Projects/Agents/LangGraph.md",
-    "03-Tools-and-Projects/Inference/LiteLLM.md",
     "03-Tools-and-Projects/Evaluation-and-Ops/Langfuse.md",
     "03-Tools-and-Projects/Agents/Mem0.md",
-    "00-Home/Dataview插件使用说明与实战.md",
     "README.md",
     "README_CN.md",
     "00-Home/README-运作机制与指南.md",
@@ -211,15 +215,11 @@
     "04-Engineering-Practices/基于代码知识图谱的代码大模型上下文增强：Graphify 实践.md",
     "04-Engineering-Practices/RAG 生产环境优化：多路召回与 Rerank 最佳实践.md",
     "03-Tools-and-Projects/Graphify.md",
-    "03-Tools-and-Projects/Inference/SGLang.md",
     "03-Tools-and-Projects/Inference/vLLM.md",
-    "03-Tools-and-Projects/FastMCP.md",
     "03-Tools-and-Projects/Evaluation-and-Ops",
     "03-Tools-and-Projects/RAG-and-Data",
     "03-Tools-and-Projects/Inference",
     "03-Tools-and-Projects/Agents",
-    "04-Engineering-Practices/基于 PydanticAI 的类型安全 Agent 架构设计与结构化输出实践.md",
-    "04-Engineering-Practices/大模型工程降本提速：Prompt Caching 架构设计与最佳实践.md",
     "未命名.base",
     "未命名.canvas",
     "04-Engineering-Practices",

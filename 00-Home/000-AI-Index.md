@@ -19,7 +19,7 @@ tags:
 TABLE category AS "分类", github AS "GitHub 仓库", date_added AS "收录日期"
 FROM "03-Tools-and-Projects"
 WHERE file.name != "Template-Project-Card"
-SORT category ASC, date_added DESC, file.name ASC
+SORT date_added DESC, file.name ASC
 ```
 
 ---
@@ -30,7 +30,7 @@ SORT category ASC, date_added DESC, file.name ASC
 TABLE domain AS "技术领域", difficulty AS "难度", date_added AS "收录日期"
 FROM "04-Engineering-Practices"
 WHERE file.name != "Template-Practice-Card"
-SORT date_added DESC, file.ctime DESC
+SORT date_added DESC, file.name ASC
 ```
 
 ---
@@ -44,6 +44,23 @@ WHERE file.name != "Template-Daily-Digest"
 SORT file.name DESC
 LIMIT 7
 ```
+
+---
+
+## ⚡ 快捷专题核心脉络
+
+### 💻 本地部署与高性能推理 (Inference & Deployment)
+- 现代推理基座：[[Ollama]]（本地私有化引擎）, [[vLLM]]（PagedAttention 高并发）, [[SGLang]]（RadixAttention 前缀缓存）
+- 降本加速实战：[[私有化大模型基础设施：基于 Ollama 与 LiteLLM 的高可用网关架构]], [[大模型工程降本提速：Prompt Caching 架构设计与最佳实践]]
+
+### 🤖 智能体与自主软件工程 (Agents & Coding Harnesses)
+- 自主工程师与多智能体：[[OpenHands]]（SWE 级自主编程）, [[CrewAI]]（角色协作与事件流）, [[smolagents]]（代码驱动）, [[LangGraph]]（状态图）, [[PydanticAI]]（类型安全）
+- 协议与终端 Harness：[[FastMCP]], [[Pi-Agent]], [[Browser-Use]]
+- 实战沉淀：[[自主软件工程智能体：基于 OpenHands 的沙箱隔离与微智能体架构实践]], [[多智能体协同工程：基于 CrewAI 的角色编排与层级流（Flows）实践]], [[代码驱动智能体：基于 CodeAgent 的复杂多步任务执行范式]]
+
+### 🔍 深度文档解析与混合检索 (Advanced RAG & Knowledge Layer)
+- 版面解析与图谱引擎：[[RAGFlow]]（深度版面理解与零幻觉溯源）, [[Docling]]（复杂版面解析）, [[LightRAG]]（双层知识图谱）, [[Graphify]]（本地代码图谱）
+- 实战沉淀：[[企业级 RAG 深度文档解析：基于 RAGFlow 的视觉模板分块与防幻觉实战]], [[双层图谱增强检索：基于 LightRAG 的轻量化 GraphRAG 架构实践]], [[RAG 生产环境优化：多路召回与 Rerank 最佳实践]]
 
 ---
 
