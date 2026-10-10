@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daily-Digest/2026/2026-10/2026-10-08-AI-Digest.md",
+                "file": "01-Daily-Digest/2026/2026-10/2026-10-09-AI-Digest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-08-AI-Digest"
+              "title": "2026-10-09-AI-Digest"
             }
           }
         ]
@@ -190,10 +190,10 @@
   },
   "active": "04bb02bcf44deffe",
   "lastOpenFiles": [
+    "01-Daily-Digest/2026/2026-10/2026-10-08-AI-Digest.md",
     "04-Engineering-Practices/Agent 内核级安全隔离：基于 OpenShell 的 Syscall 过滤与网络白名单防御实战.md",
     "01-Daily-Digest/2026/2026-10/2026-10-04-AI-Digest.md",
     "04-Engineering-Practices/多智能体生产级协同：基于 AG2 的分层编排与会话状态持久化实战.md",
-    "01-Daily-Digest/2026/2026-10/2026-10-08-AI-Digest.md",
     "03-Tools-and-Projects/Agents/OpenShell.md",
     "03-Tools-and-Projects/Agents/AG2.md",
     "00-Home/000-AI-Index.md",

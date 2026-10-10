@@ -56,16 +56,16 @@ LIMIT 7
 ### 🤖 智能体与应用编排平台 (Agents & Workflow Platforms)
 - 应用中台与工作流平台：[[Dify]]（可视化工作流与 Agent 中台）
 - 自主工程师与多智能体：[[Letta]]（类操作系统分层记忆与有状态 Agent 运行时）, [[AG2]]（生产级分层多智能体协同与对话编排底座）, [[Cline]]（IDE 原生自治编程与 MCP 扩展先锋）, [[Aider]]（终端 Git 原生架构师结对）, [[OpenHands]]（SWE 级自主编程）, [[CrewAI]]（角色协作与事件流）, [[smolagents]]（代码驱动）, [[LangGraph]]（状态图）, [[PydanticAI]]（类型安全）
-- 协议、沙箱与终端 Harness：[[OpenShell]]（NVIDIA 内核级 eBPF 动态系统调用与网络隔离沙箱）, [[E2B]]（Firecracker MicroVM 极速代码沙箱与安全解释器）, [[FastMCP]], [[Pi-Agent]], [[Browser-Use]]
-- 实战沉淀：[[有状态智能体架构：基于 Letta 的分层记忆管理与持久化运行时实战]], [[多智能体生产级协同：基于 AG2 的分层编排与会话状态持久化实战]], [[Agent 内核级安全隔离：基于 OpenShell 的 Syscall 过滤与网络白名单防御实战]], [[Agent 安全沙箱隔离：基于 E2B MicroVM 的代码解释器与无感运行时环境实战]], [[IDE 智能编程范式：基于 Cline 与 MCP 协议的上下文工程与自主开发闭环实战]], [[终端代码智能体实践：基于 Aider 的 Repo Map 压缩与 Architect-Editor 双模型分工实战]], [[基于 Dify 的企业级 Agent 工作流与 RAG 落地架构实践]], [[自主软件工程智能体：基于 OpenHands 的沙箱隔离与微智能体架构实践]], [[多智能体协同工程：基于 CrewAI 的角色编排与层级流（Flows）实践]], [[代码驱动智能体：基于 CodeAgent 的复杂多步任务执行范式]], [[多模态网页自动化：基于 Browser-Use 的视觉驱动 Agent 设计与工程避坑]]
+- 协议、沙箱与终端 Harness：[[Composio]]（生产级 1000+ 工具与 OAuth 托管调用基础设施）, [[OpenShell]]（NVIDIA 内核级 eBPF 动态系统调用与网络隔离沙箱）, [[E2B]]（Firecracker MicroVM 极速代码沙箱与安全解释器）, [[FastMCP]], [[Pi-Agent]], [[Browser-Use]]
+- 实战沉淀：[[Agent 生产级工具集成：基于 Composio 的企业级 OAuth 托管与高可靠 Action 执行实战]], [[有状态智能体架构：基于 Letta 的分层记忆管理与持久化运行时实战]], [[多智能体生产级协同：基于 AG2 的分层编排与会话状态持久化实战]], [[Agent 内核级安全隔离：基于 OpenShell 的 Syscall 过滤与网络白名单防御实战]], [[Agent 安全沙箱隔离：基于 E2B MicroVM 的代码解释器与无感运行时环境实战]], [[IDE 智能编程范式：基于 Cline 与 MCP 协议的上下文工程与自主开发闭环实战]], [[终端代码智能体实践：基于 Aider 的 Repo Map 压缩与 Architect-Editor 双模型分工实战]], [[基于 Dify 的企业级 Agent 工作流与 RAG 落地架构实践]], [[自主软件工程智能体：基于 OpenHands 的沙箱隔离与微智能体架构实践]], [[多智能体协同工程：基于 CrewAI 的角色编排与层级流（Flows）实践]], [[代码驱动智能体：基于 CodeAgent 的复杂多步任务执行范式]], [[多模态网页自动化：基于 Browser-Use 的视觉驱动 Agent 设计与工程避坑]]
 
 ### 🔍 深度文档解析与混合检索 (Advanced RAG & Knowledge Layer)
 - 版面解析与向量引擎：[[Kotaemon]]（生产级可定制 RAG 文档问答与可视化溯源底座）, [[Milvus]]（云原生分布式百亿级向量数据库与混合检索基石）, [[Qdrant]]（纯 Rust 云原生向量数据库与 INT8 标量过滤引擎）, [[MinerU]]（学术论文与复杂研报高保真 LaTeX/表格抽取）, [[AnythingLLM]]（开箱即用桌面/单容器知识库）, [[RAGFlow]]（深度版面理解与零幻觉溯源）, [[Docling]]（复杂版面解析）, [[LightRAG]]（双层知识图谱）, [[Graphify]]（本地代码图谱）, [[Firecrawl]]（网页智能清洗与反爬提取）, [[LanceDB]]（无服务器嵌入式列式向量检索）
 - 实战沉淀：[[企业级精准文档问答：基于 Kotaemon 的多模态混合检索与可溯源引用架构实战]], [[企业级百亿向量分布式检索：基于 Milvus 的分区键切分与稠密稀疏混合检索实战]], [[生产级高性能向量检索：基于 Qdrant 的 Payload 过滤与标量量化混合检索实战]], [[复杂文档高保真结构化：基于 MinerU 的论文研报公式还原与跨页版面解析实践]], [[企业级 RAG 深度文档解析：基于 RAGFlow 的视觉模板分块与防幻觉实战]], [[双层图谱增强检索：基于 LightRAG 的轻量化 GraphRAG 架构实践]], [[RAG 生产环境优化：多路召回与 Rerank 最佳实践]], [[企业级 RAG 外部数据源清洗：基于 Firecrawl 的反爬对抗与智能 Markdown 结构化抽取实践]], [[轻量无服务器检索架构：基于 LanceDB 的列式存储与端侧混合检索实战]]
 
 ### 🧪 大模型评测、合规与质量安全 (Evaluation, Quality & Safety Guardrails)
-- 质量评估与安全合规底座：[[Promptfoo]]（轻量级 LLM 安全红队对抗、越狱扫描与 CI/CD 自动化门禁）, [[Ragas]]（RAG 与 Agent 管道四维量化度量与合成测试集生成）, [[NeMo-Guardrails]]（Colang 2.0 声明式安全护栏与运行时对齐）, [[DeepEval]]（大模型单元测试与 CI-CD 门禁）, [[Langfuse]]（全链路可观测与追溯）, [[DSPy]]（算法化提示词编译）
-- 实战沉淀：[[LLM 安全合规与防越狱红队测试：基于 Promptfoo 的自动化脆弱性扫描与 CI 门禁实战]], [[RAG 体系化量化评估：基于 Ragas 的核心四维指标与自动化合成测试集实战]], [[企业级大模型可编程安全底座：基于 NeMo Guardrails 的对话护栏与防越狱拦截实战]], [[大模型应用质量工程：基于 DeepEval 的端到端指标评测与 CI-CD 自动化门禁实战]], [[Agent 生产级可观测性与评估：基于 Langfuse 的全链路追踪实践]], [[告别手工调优：基于 DSPy 的提示词与 Few-Shot 自动编译优化实践]]
+- 质量评估与安全合规底座：[[Phoenix]]（OpenTelemetry 原生 Agent/RAG 全链路可观测与嵌入漂移评测中枢）, [[Promptfoo]]（轻量级 LLM 安全红队对抗、越狱扫描与 CI/CD 自动化门禁）, [[Ragas]]（RAG 与 Agent 管道四维量化度量与合成测试集生成）, [[NeMo-Guardrails]]（Colang 2.0 声明式安全护栏与运行时对齐）, [[DeepEval]]（大模型单元测试与 CI-CD 门禁）, [[Langfuse]]（全链路可观测与追溯）, [[DSPy]]（算法化提示词编译）
+- 实战沉淀：[[Agent 与 RAG 全链路可观测性：基于 Arize Phoenix 的 OpenTelemetry 追踪与嵌入漂移评测实战]], [[LLM 安全合规与防越狱红队测试：基于 Promptfoo 的自动化脆弱性扫描与 CI 门禁实战]], [[RAG 体系化量化评估：基于 Ragas 的核心四维指标与自动化合成测试集实战]], [[企业级大模型可编程安全底座：基于 NeMo Guardrails 的对话护栏与防越狱拦截实战]], [[大模型应用质量工程：基于 DeepEval 的端到端指标评测与 CI-CD 自动化门禁实战]], [[Agent 生产级可观测性与评估：基于 Langfuse 的全链路追踪实践]], [[告别手工调优：基于 DSPy 的提示词与 Few-Shot 自动编译优化实践]]
 
 ---
 
