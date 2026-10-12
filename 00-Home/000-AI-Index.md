@@ -50,14 +50,14 @@ LIMIT 7
 ## ⚡ 快捷专题核心脉络
 
 ### 💻 本地部署与高性能推理 (Inference & Deployment)
-- 现代推理与微调基座：[[llama.cpp]]（纯 C/C++ 零依赖、GGUF 量化与投机解码基石）, [[Ollama]]（本地私有化引擎）, [[vLLM]]（PagedAttention 高并发）, [[SGLang]]（RadixAttention 前缀缓存）, [[Unsloth]]（Triton 手写内核单卡极限微调与 GRPO 对齐）, [[RouteLLM]]（LMSYS 动态强弱模型路由网关与自适应降本）, [[LLaMA-Factory]]（工业级全功能微调与 DPO 强化学习对齐中枢）
-- 降本加速实战：[[大模型高效微调与强化学习对齐：基于 LLaMA-Factory 的多模型全流程训练实战]], [[大模型工程降本利器：基于 RouteLLM 的动态强弱模型路由与成本节省实战]], [[端侧高吞吐低延迟推理：基于 llama.cpp 的 GGUF 极限混合量化与投机解码工程实战]], [[私有化大模型基础设施：基于 Ollama 与 LiteLLM 的高可用网关架构]], [[大模型工程降本提速：Prompt Caching 架构设计与最佳实践]], [[大模型极致后训练调优：基于 Unsloth 的显存节省与 LoRA 极速微调工程实战]]
+- 现代推理与微调基座：[[llama.cpp]]（纯 C/C++ 零依赖、GGUF 量化与投机解码基石）, [[Ollama]]（本地私有化引擎）, [[vLLM]]（PagedAttention 高并发）, [[SGLang]]（RadixAttention 前缀缓存）, [[Outlines]]（基于 DFA/FSM 的 Logits 掩码约束与零幻觉结构化输出引擎）, [[Unsloth]]（Triton 手写内核单卡极限微调与 GRPO 对齐）, [[RouteLLM]]（LMSYS 动态强弱模型路由网关与自适应降本）, [[LLaMA-Factory]]（工业级全功能微调与 DPO 强化学习对齐中枢）
+- 降本加速实战：[[大模型结构化输出保障：基于 Outlines 的 Logits 掩码约束与零幻觉提取实战]], [[大模型高效微调与强化学习对齐：基于 LLaMA-Factory 的多模型全流程训练实战]], [[大模型工程降本利器：基于 RouteLLM 的动态强弱模型路由与成本节省实战]], [[端侧高吞吐低延迟推理：基于 llama.cpp 的 GGUF 极限混合量化与投机解码工程实战]], [[私有化大模型基础设施：基于 Ollama 与 LiteLLM 的高可用网关架构]], [[大模型工程降本提速：Prompt Caching 架构设计与最佳实践]], [[大模型极致后训练调优：基于 Unsloth 的显存节省与 LoRA 极速微调工程实战]]
 
 ### 🤖 智能体与应用编排平台 (Agents & Workflow Platforms)
 - 应用中台与工作流平台：[[Dify]]（可视化工作流与 Agent 中台）
 - 自主工程师与多智能体：[[Letta]]（类操作系统分层记忆与有状态 Agent 运行时）, [[AG2]]（生产级分层多智能体协同与对话编排底座）, [[Cline]]（IDE 原生自治编程与 MCP 扩展先锋）, [[Aider]]（终端 Git 原生架构师结对）, [[OpenHands]]（SWE 级自主编程）, [[CrewAI]]（角色协作与事件流）, [[smolagents]]（代码驱动）, [[LangGraph]]（状态图）, [[PydanticAI]]（类型安全）
-- 协议、沙箱与终端 Harness：[[Composio]]（生产级 1000+ 工具与 OAuth 托管调用基础设施）, [[OpenShell]]（NVIDIA 内核级 eBPF 动态系统调用与网络隔离沙箱）, [[E2B]]（Firecracker MicroVM 极速代码沙箱与安全解释器）, [[FastMCP]], [[Pi-Agent]], [[Browser-Use]]
-- 实战沉淀：[[Agent 生产级工具集成：基于 Composio 的企业级 OAuth 托管与高可靠 Action 执行实战]], [[有状态智能体架构：基于 Letta 的分层记忆管理与持久化运行时实战]], [[多智能体生产级协同：基于 AG2 的分层编排与会话状态持久化实战]], [[Agent 内核级安全隔离：基于 OpenShell 的 Syscall 过滤与网络白名单防御实战]], [[Agent 安全沙箱隔离：基于 E2B MicroVM 的代码解释器与无感运行时环境实战]], [[IDE 智能编程范式：基于 Cline 与 MCP 协议的上下文工程与自主开发闭环实战]], [[终端代码智能体实践：基于 Aider 的 Repo Map 压缩与 Architect-Editor 双模型分工实战]], [[基于 Dify 的企业级 Agent 工作流与 RAG 落地架构实践]], [[自主软件工程智能体：基于 OpenHands 的沙箱隔离与微智能体架构实践]], [[多智能体协同工程：基于 CrewAI 的角色编排与层级流（Flows）实践]], [[代码驱动智能体：基于 CodeAgent 的复杂多步任务执行范式]], [[多模态网页自动化：基于 Browser-Use 的视觉驱动 Agent 设计与工程避坑]]
+- 协议、沙箱与终端 Harness：[[CopilotKit]]（应用内置 Copilot、生成式 UI 与 Co-Agent 双向状态同步框架）, [[Composio]]（生产级 1000+ 工具与 OAuth 托管调用基础设施）, [[OpenShell]]（NVIDIA 内核级 eBPF 动态系统调用与网络隔离沙箱）, [[E2B]]（Firecracker MicroVM 极速代码沙箱与安全解释器）, [[FastMCP]], [[Pi-Agent]], [[Browser-Use]]
+- 实战沉淀：[[端侧智能体与生成式 UI：基于 CopilotKit 与 LangGraph 的双向状态同步与组件流式渲染实战]], [[Agent 生产级工具集成：基于 Composio 的企业级 OAuth 托管与高可靠 Action 执行实战]], [[有状态智能体架构：基于 Letta 的分层记忆管理与持久化运行时实战]], [[多智能体生产级协同：基于 AG2 的分层编排与会话状态持久化实战]], [[Agent 内核级安全隔离：基于 OpenShell 的 Syscall 过滤与网络白名单防御实战]], [[Agent 安全沙箱隔离：基于 E2B MicroVM 的代码解释器与无感运行时环境实战]], [[IDE 智能编程范式：基于 Cline 与 MCP 协议的上下文工程与自主开发闭环实战]], [[终端代码智能体实践：基于 Aider 的 Repo Map 压缩与 Architect-Editor 双模型分工实战]], [[基于 Dify 的企业级 Agent 工作流与 RAG 落地架构实践]], [[自主软件工程智能体：基于 OpenHands 的沙箱隔离与微智能体架构实践]], [[多智能体协同工程：基于 CrewAI 的角色编排与层级流（Flows）实践]], [[代码驱动智能体：基于 CodeAgent 的复杂多步任务执行范式]], [[多模态网页自动化：基于 Browser-Use 的视觉驱动 Agent 设计与工程避坑]]
 
 ### 🔍 深度文档解析与混合检索 (Advanced RAG & Knowledge Layer)
 - 版面解析与向量引擎：[[Kotaemon]]（生产级可定制 RAG 文档问答与可视化溯源底座）, [[Milvus]]（云原生分布式百亿级向量数据库与混合检索基石）, [[Qdrant]]（纯 Rust 云原生向量数据库与 INT8 标量过滤引擎）, [[MinerU]]（学术论文与复杂研报高保真 LaTeX/表格抽取）, [[AnythingLLM]]（开箱即用桌面/单容器知识库）, [[RAGFlow]]（深度版面理解与零幻觉溯源）, [[Docling]]（复杂版面解析）, [[LightRAG]]（双层知识图谱）, [[Graphify]]（本地代码图谱）, [[Firecrawl]]（网页智能清洗与反爬提取）, [[LanceDB]]（无服务器嵌入式列式向量检索）
