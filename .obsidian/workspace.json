@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daily-Digest/2026/2026-10/2026-10-10-AI-Digest.md",
+                "file": "01-Daily-Digest/2026/2026-10/2026-10-13-AI-Digest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-10-AI-Digest"
+              "title": "2026-10-13-AI-Digest"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pydantic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,6 +190,12 @@
   },
   "active": "04bb02bcf44deffe",
   "lastOpenFiles": [
+    "01-Daily-Digest/2026/2026-10/2026-10-14-AI-Digest.md",
+    "04-Engineering-Practices/大模型端到端强类型输出：基于 Instructor 与 Pydantic 的流式结构化抽取与自愈重试实战.md",
+    "04-Engineering-Practices/基于 LlamaIndex Workflows 的事件驱动型多智能体编排与异步 RAG 流水线实战.md",
+    "03-Tools-and-Projects/Inference/Instructor.md",
+    "03-Tools-and-Projects/RAG-and-Data/LlamaIndex.md",
+    "01-Daily-Digest/2026/2026-10/2026-10-10-AI-Digest.md",
     "01-Daily-Digest/2026/2026-10/2026-10-13-AI-Digest.md",
     "04-Engineering-Practices/大模型友好型高效网页抽取：基于 Crawl4AI 的异步无头爬取与自适应分块实战.md",
     "04-Engineering-Practices/纯视觉 GUI 智能体屏幕解析：基于 Microsoft OmniParser 的可交互元素检测与坐标基准定位实战.md",
@@ -212,12 +217,6 @@
     "未命名.canvas",
     "03-Tools-and-Projects/Inference/LiteLLM.md",
     "01-Daily-Digest/2026/2026-09/2026-09-30-AI-Digest.md",
-    "04-Engineering-Practices/基于 Dify 的企业级 Agent 工作流与 RAG 落地架构实践.md",
-    "03-Tools-and-Projects/Agents/Cline.md",
-    "03-Tools-and-Projects/Agents/Aider.md",
-    "03-Tools-and-Projects/Agents/Browser-Use.md",
-    "03-Tools-and-Projects/Agents/CrewAI.md",
-    "03-Tools-and-Projects/Agents/Dify.md",
     "03-Tools-and-Projects/Evaluation-and-Ops",
     "03-Tools-and-Projects/RAG-and-Data",
     "03-Tools-and-Projects/Inference",
