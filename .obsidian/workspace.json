@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daily-Digest/2026/2026-10/2026-10-13-AI-Digest.md",
+                "file": "01-Daily-Digest/2026/2026-10/2026-10-14-AI-Digest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-13-AI-Digest"
+              "title": "2026-10-14-AI-Digest"
             }
           }
         ]
@@ -190,13 +190,18 @@
   },
   "active": "04bb02bcf44deffe",
   "lastOpenFiles": [
+    "01-Daily-Digest/2026/2026-10/2026-10-15-AI-Digest.md",
+    "04-Engineering-Practices/企业级多租户海量向量检索：基于 Weaviate 的动态租户隔离与 PQ-BQ 标量压缩实战.md",
+    "04-Engineering-Practices/企业级多语言智能体编排：基于 Microsoft Semantic Kernel 的插件化架构与过滤器拦截实战.md",
+    "03-Tools-and-Projects/RAG-and-Data/Weaviate.md",
+    "03-Tools-and-Projects/Agents/Semantic-Kernel.md",
+    "01-Daily-Digest/2026/2026-10/2026-10-13-AI-Digest.md",
     "01-Daily-Digest/2026/2026-10/2026-10-14-AI-Digest.md",
     "04-Engineering-Practices/大模型端到端强类型输出：基于 Instructor 与 Pydantic 的流式结构化抽取与自愈重试实战.md",
     "04-Engineering-Practices/基于 LlamaIndex Workflows 的事件驱动型多智能体编排与异步 RAG 流水线实战.md",
     "03-Tools-and-Projects/Inference/Instructor.md",
     "03-Tools-and-Projects/RAG-and-Data/LlamaIndex.md",
     "01-Daily-Digest/2026/2026-10/2026-10-10-AI-Digest.md",
-    "01-Daily-Digest/2026/2026-10/2026-10-13-AI-Digest.md",
     "04-Engineering-Practices/大模型友好型高效网页抽取：基于 Crawl4AI 的异步无头爬取与自适应分块实战.md",
     "04-Engineering-Practices/纯视觉 GUI 智能体屏幕解析：基于 Microsoft OmniParser 的可交互元素检测与坐标基准定位实战.md",
     "03-Tools-and-Projects/RAG-and-Data/Crawl4AI.md",
@@ -211,12 +216,7 @@
     "04-Engineering-Practices/Agent 内核级安全隔离：基于 OpenShell 的 Syscall 过滤与网络白名单防御实战.md",
     "01-Daily-Digest/2026/2026-10/2026-10-04-AI-Digest.md",
     "04-Engineering-Practices/多智能体生产级协同：基于 AG2 的分层编排与会话状态持久化实战.md",
-    "03-Tools-and-Projects/Agents/OpenShell.md",
-    "03-Tools-and-Projects/Agents/AG2.md",
-    "00-Home/000-AI-Index.md",
     "未命名.canvas",
-    "03-Tools-and-Projects/Inference/LiteLLM.md",
-    "01-Daily-Digest/2026/2026-09/2026-09-30-AI-Digest.md",
     "03-Tools-and-Projects/Evaluation-and-Ops",
     "03-Tools-and-Projects/RAG-and-Data",
     "03-Tools-and-Projects/Inference",
