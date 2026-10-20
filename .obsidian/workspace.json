@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Tools-and-Projects/Agents/Graphiti.md",
+                "file": "01-Daily-Digest/2026/2026-10/2026-10-17-AI-Digest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graphiti"
+              "title": "2026-10-17-AI-Digest"
             }
           }
         ]
@@ -190,6 +190,8 @@
   },
   "active": "04bb02bcf44deffe",
   "lastOpenFiles": [
+    "01-Daily-Digest/2026/2026-10/2026-10-19-AI-Digest.md",
+    "03-Tools-and-Projects/Agents/Graphiti.md",
     "01-Daily-Digest/2026/2026-10/2026-10-17-AI-Digest.md",
     "03-Tools-and-Projects/Inference/LiteLLM.md",
     "01-Daily-Digest/2026/2026-09/2026-09-21-AI-Digest.md",
@@ -214,8 +216,6 @@
     "04-Engineering-Practices/纯视觉 GUI 智能体屏幕解析：基于 Microsoft OmniParser 的可交互元素检测与坐标基准定位实战.md",
     "03-Tools-and-Projects/RAG-and-Data/Crawl4AI.md",
     "03-Tools-and-Projects/Agents/OmniParser.md",
-    "03-Tools-and-Projects/Evaluation-and-Ops/Langfuse.md",
-    "03-Tools-and-Projects/Agents/CopilotKit.md",
     "未命名.canvas",
     "03-Tools-and-Projects/Evaluation-and-Ops",
     "03-Tools-and-Projects/RAG-and-Data",
