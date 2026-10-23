@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daily-Digest/2026/2026-10/2026-10-21-AI-Digest.md",
+                "file": "01-Daily-Digest/2026/2026-10/2026-10-22-AI-Digest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-21-AI-Digest"
+              "title": "2026-10-22-AI-Digest"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 380.8333435058594
   },
   "right": {
     "id": "312112cccfd0e337",
@@ -190,8 +190,13 @@
   },
   "active": "04bb02bcf44deffe",
   "lastOpenFiles": [
-    "03-Tools-and-Projects/Agents/Agno.md",
+    "01-Daily-Digest/2026/2026-10/2026-10-23-AI-Digest.md",
+    "04-Engineering-Practices/轻量级嵌入式向量检索架构：基于 Chroma 的无服务器本地持久化与多维元数据过滤实战.md",
+    "04-Engineering-Practices/企业级私有化大模型统一交互中枢：基于 Open-WebUI 的多模型纳管、知识库 RAG 与 Pipelines 自定义中间件实战.md",
+    "03-Tools-and-Projects/RAG-and-Data/Chroma.md",
+    "03-Tools-and-Projects/Agents/Open-WebUI.md",
     "01-Daily-Digest/2026/2026-10/2026-10-21-AI-Digest.md",
+    "03-Tools-and-Projects/Agents/Agno.md",
     "04-Engineering-Practices/分布式异构模型统一服务化架构：基于 Xinference 的多后端协同调度与一站式多模态推理网关实战.md",
     "04-Engineering-Practices/企业级 SOP 驱动多智能体协同研发：基于 MetaGPT 的标准化角色装配与结构化产出交付实战.md",
     "03-Tools-and-Projects/Inference/Xinference.md",
@@ -211,11 +216,6 @@
     "03-Tools-and-Projects/RAG-and-Data/ColPali.md",
     "01-Daily-Digest/2026/2026-10/2026-10-14-AI-Digest.md",
     "04-Engineering-Practices/企业级多租户海量向量检索：基于 Weaviate 的动态租户隔离与 PQ-BQ 标量压缩实战.md",
-    "03-Tools-and-Projects/RAG-and-Data/Weaviate.md",
-    "03-Tools-and-Projects/Agents/Semantic-Kernel.md",
-    "01-Daily-Digest/2026/2026-10/2026-10-13-AI-Digest.md",
-    "04-Engineering-Practices/大模型端到端强类型输出：基于 Instructor 与 Pydantic 的流式结构化抽取与自愈重试实战.md",
-    "04-Engineering-Practices/基于 LlamaIndex Workflows 的事件驱动型多智能体编排与异步 RAG 流水线实战.md",
     "未命名.canvas",
     "03-Tools-and-Projects/Evaluation-and-Ops",
     "03-Tools-and-Projects/RAG-and-Data",
