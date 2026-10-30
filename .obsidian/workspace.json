@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Engineering-Practices/自主软件工程演进：基于 SWE-agent 的专用 ACI 交互界面构建与代码缺陷自愈实战.md",
+                "file": "01-Daily-Digest/2026/2026-10/2026-10-29-AI-Digest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自主软件工程演进：基于 SWE-agent 的专用 ACI 交互界面构建与代码缺陷自愈实战"
+              "title": "2026-10-29-AI-Digest"
             }
           }
         ]
@@ -190,6 +190,9 @@
   },
   "active": "04bb02bcf44deffe",
   "lastOpenFiles": [
+    "00-Home/000-AI-Index.md",
+    "01-Daily-Digest/2026/2026-10/2026-10-29-AI-Digest.md",
+    "04-Engineering-Practices/自主软件工程演进：基于 SWE-agent 的专用 ACI 交互界面构建与代码缺陷自愈实战.md",
     "01-Daily-Digest/2026/2026-10/2026-10-28-AI-Digest.md",
     "03-Tools-and-Projects/Agents/Langflow.md",
     "03-Tools-and-Projects/Agents/MetaGPT.md",
@@ -213,9 +216,6 @@
     "01-Daily-Digest/2026/2026-10/2026-10-16-AI-Digest.md",
     "01-Daily-Digest/2026/2026-10/2026-10-15-AI-Digest.md",
     "04-Engineering-Practices/企业级多语言智能体编排：基于 Microsoft Semantic Kernel 的插件化架构与过滤器拦截实战.md",
-    "04-Engineering-Practices/企业级极限推理加速：基于 NVIDIA TensorRT-LLM 的 In-Flight Batching 与 FP8 量化部署实战.md",
-    "04-Engineering-Practices/多模态文档检索革命：基于 ColPali 的视觉无损分块与 ColBERT 迟交互检索实战.md",
-    "03-Tools-and-Projects/Inference/TensorRT-LLM.md",
     "未命名.canvas",
     "03-Tools-and-Projects/Evaluation-and-Ops",
     "03-Tools-and-Projects/RAG-and-Data",
