@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daily-Digest/2026/2026-10/2026-10-29-AI-Digest.md",
+                "file": "03-Tools-and-Projects/Agents/Pi-Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-29-AI-Digest"
+              "title": "Pi-Agent"
             }
           }
         ]
@@ -190,7 +190,15 @@
   },
   "active": "04bb02bcf44deffe",
   "lastOpenFiles": [
+    "01-Daily-Digest/2026/2026-11/2026-11-04-AI-Digest.md",
+    "04-Engineering-Practices/企业级统一智能体底座：基于 Meta Llama-Stack 的标准化 API 编排与跨端混合运行时实战.md",
+    "04-Engineering-Practices/大模型强化学习与推理涌现架构：基于 veRL 的 HybridFlow 分布式解耦与大规模 GRPO 训练实战.md",
+    "03-Tools-and-Projects/Agents/Llama-Stack.md",
+    "03-Tools-and-Projects/Inference/veRL.md",
+    "03-Tools-and-Projects/Agents/Dify.md",
+    "01-Daily-Digest/2026/2026-11/2026-11-03-AI-Digest.md",
     "00-Home/000-AI-Index.md",
+    "01-Daily-Digest/2026/2026-10/2026-10-30-AI-Digest.md",
     "01-Daily-Digest/2026/2026-10/2026-10-29-AI-Digest.md",
     "04-Engineering-Practices/自主软件工程演进：基于 SWE-agent 的专用 ACI 交互界面构建与代码缺陷自愈实战.md",
     "01-Daily-Digest/2026/2026-10/2026-10-28-AI-Digest.md",
@@ -208,14 +216,6 @@
     "04-Engineering-Practices/企业级 SOP 驱动多智能体协同研发：基于 MetaGPT 的标准化角色装配与结构化产出交付实战.md",
     "03-Tools-and-Projects/Inference/Xinference.md",
     "01-Daily-Digest/2026/2026-10/2026-10-20-AI-Digest.md",
-    "01-Daily-Digest/2026/2026-10/2026-10-19-AI-Digest.md",
-    "01-Daily-Digest/2026/2026-10/2026-10-17-AI-Digest.md",
-    "03-Tools-and-Projects/Agents/Graphiti.md",
-    "03-Tools-and-Projects/Inference/LiteLLM.md",
-    "01-Daily-Digest/2026/2026-09/2026-09-21-AI-Digest.md",
-    "01-Daily-Digest/2026/2026-10/2026-10-16-AI-Digest.md",
-    "01-Daily-Digest/2026/2026-10/2026-10-15-AI-Digest.md",
-    "04-Engineering-Practices/企业级多语言智能体编排：基于 Microsoft Semantic Kernel 的插件化架构与过滤器拦截实战.md",
     "未命名.canvas",
     "03-Tools-and-Projects/Evaluation-and-Ops",
     "03-Tools-and-Projects/RAG-and-Data",
