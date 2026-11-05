@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Tools-and-Projects/Agents/Pi-Agent.md",
+                "file": "01-Daily-Digest/2026/2026-11/2026-11-04-AI-Digest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pi-Agent"
+              "title": "2026-11-04-AI-Digest"
             }
           }
         ]
@@ -190,6 +190,7 @@
   },
   "active": "04bb02bcf44deffe",
   "lastOpenFiles": [
+    "03-Tools-and-Projects/Agents/Pi-Agent.md",
     "01-Daily-Digest/2026/2026-11/2026-11-04-AI-Digest.md",
     "04-Engineering-Practices/企业级统一智能体底座：基于 Meta Llama-Stack 的标准化 API 编排与跨端混合运行时实战.md",
     "04-Engineering-Practices/大模型强化学习与推理涌现架构：基于 veRL 的 HybridFlow 分布式解耦与大规模 GRPO 训练实战.md",
@@ -215,7 +216,6 @@
     "04-Engineering-Practices/分布式异构模型统一服务化架构：基于 Xinference 的多后端协同调度与一站式多模态推理网关实战.md",
     "04-Engineering-Practices/企业级 SOP 驱动多智能体协同研发：基于 MetaGPT 的标准化角色装配与结构化产出交付实战.md",
     "03-Tools-and-Projects/Inference/Xinference.md",
-    "01-Daily-Digest/2026/2026-10/2026-10-20-AI-Digest.md",
     "未命名.canvas",
     "03-Tools-and-Projects/Evaluation-and-Ops",
     "03-Tools-and-Projects/RAG-and-Data",
